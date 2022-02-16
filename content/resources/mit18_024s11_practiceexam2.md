@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the practice material of exam 2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-024-multivariable-calculus-with-theory-spring-2011/3b0dc1c7a2291c22cb729027a09bb8cc_MIT18_024S11_PracticeExam2.pdf
+file: /media/courses/18-024-multivariable-calculus-with-theory-spring-2011/3b0dc1c7a2291c22cb729027a09bb8cc_MIT18_024S11_PracticeExam2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_024S11_PracticeExam2.pdf
 uid: 3b0dc1c7-a229-1c22-cb72-9027a09bb8cc

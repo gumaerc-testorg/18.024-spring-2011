@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains the solutions of problem set 6.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-024-multivariable-calculus-with-theory-spring-2011/4a0a40350d02014f699f1e40e3959283_MIT18_024S11_soln-pset6.pdf
+file: /media/courses/18-024-multivariable-calculus-with-theory-spring-2011/4a0a40350d02014f699f1e40e3959283_MIT18_024S11_soln-pset6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_024S11_soln-pset6.pdf
 uid: 4a0a4035-0d02-014f-699f-1e40e3959283
