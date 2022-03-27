@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 95e9644e-2b9b-3daf-28f1-8a953adb5dad
 resourcetype: Document
 title: MIT18_024S11_ses39notes.pdf
 uid: 7c937319-b215-466c-dc63-b7f806de0d08

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 848e2349-1b4c-cf6c-b521-de651bdd013d
 resourcetype: Document
 title: MIT18_024S11_Exam1Solutns.pdf
 uid: 46811fd4-ffa2-3353-fd3b-3ac54eb7a94f

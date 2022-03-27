@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3631a006-d0c5-bcb5-684a-a6a205ff441f
 resourcetype: Document
 title: MIT18_024S11_soln-pset7.pdf
 uid: 9cbb10ac-8ebd-df05-1088-7d7588c6734c

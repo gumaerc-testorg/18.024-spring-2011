@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 848e2349-1b4c-cf6c-b521-de651bdd013d
 resourcetype: Document
 title: MIT18_024S11_PracticeExam2.pdf
 uid: 3b0dc1c7-a229-1c22-cb72-9027a09bb8cc

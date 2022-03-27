@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 71ca1f7d-cb1b-a49d-f41e-071d695d30b1
 resourcetype: Document
 title: MIT18_024S11_GreensThmReci.pdf
 uid: 3f2ac4ca-399b-0df4-d5fe-8b7674c32631

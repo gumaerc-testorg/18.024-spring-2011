@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: 898c4ba5-512b-60fc-d5f0-ea338f210413
 resourcetype: Document
 title: MIT18_024s11_ChEnotes.pdf
 uid: 7fae6ba2-f68e-9b83-2485-a33b13d8cbb2
