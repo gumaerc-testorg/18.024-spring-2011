@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides the list of problems assigned from the course textbook
+  for each recitation session.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
 title: Recitations
 uid: 71ca1f7d-cb1b-a49d-f41e-071d695d30b1
+video_metadata:
+  youtube_id: null
 ---
 
 Unless noted otherwise, the Recitations are from the course textbook:
@@ -200,7 +204,7 @@ Assignments
 20
 {{< tdclose >}}
 {{< tdopen >}}
- 11.22:1,5,6, finish GT proof ([PDF]({{< baseurl >}}/resources/mit18_024s11_greensthmreci))
+ 11.22:1,5,6, finish GT proof ({{% resource_link 3f2ac4ca-399b-0df4-d5fe-8b7674c32631 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
