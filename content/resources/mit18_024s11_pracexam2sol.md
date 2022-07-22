@@ -5,6 +5,7 @@ file: /courses/18-024-multivariable-calculus-with-theory-spring-2011/92abd8a75a5
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the solutions of practice material of exam 2.
-

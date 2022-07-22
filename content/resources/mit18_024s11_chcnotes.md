@@ -6,6 +6,7 @@ file: /courses/18-024-multivariable-calculus-with-theory-spring-2011/cdf8e8d3cd1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information related to derivatives of vector functions.
-

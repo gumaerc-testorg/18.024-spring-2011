@@ -5,6 +5,7 @@ file: /courses/18-024-multivariable-calculus-with-theory-spring-2011/3f2ac4ca399
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the problem related to Green's theorem.
-

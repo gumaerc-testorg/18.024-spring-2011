@@ -5,6 +5,7 @@ file: /courses/18-024-multivariable-calculus-with-theory-spring-2011/7f6b306b1e7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes solution to problem set 1.
-
