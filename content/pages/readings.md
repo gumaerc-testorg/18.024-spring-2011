@@ -1,14 +1,21 @@
 ---
 content_type: page
+description: This section provides the reading assignments for each session of the
+  course along with information on the course textbook and additional course notes.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4991ef07-695c-696e-80df-340f0f152475
+video_metadata:
+  youtube_id: null
 ---
 
 Unless noted otherwise, all textbook readings are from:
 
 Apostol, Tom M. _Calculus, Vol. 2: Multi-Variable Calculus and Linear Algebra with Applications to Differential Equations and Probability_. Wiley, 1969. ISBN: 9780471000075.
 
-Additional [course notes]({{< baseurl >}}/pages/course-notes) by James Raymond Munkres, Professor of Mathematics, Emeritus, are also provided.
+Additional {{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "course notes" %}} by James Raymond Munkres, Professor of Mathematics, Emeritus, are also provided.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -40,7 +47,7 @@ Linear spaces and subspaces
 1.1-1.6
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes A]({{< baseurl >}}/pages/course-notes) (A1-A6)
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes A" %}} (A1-A6)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +62,7 @@ Dependence, basis, dimension
 1.7-1.8, 1.11-1.12
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes A]({{< baseurl >}}/pages/course-notes) (A7-A15)
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes A" %}} (A7-A15)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,9 +94,9 @@ Gauss-Jordan elimination, matrices
 {{< tdopen >}}
 
 
-[Course Notes A]({{< baseurl >}}/pages/course-notes) (A17-A23)
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes A" %}} (A17-A23)
 
-[Course Notes B]({{< baseurl >}}/pages/course-notes) (B1-B5)
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes B" %}} (B1-B5)
 
 
 {{< tdclose >}}
@@ -106,7 +113,7 @@ Matrix of a transformation, Linear systems
 2.10-2.11
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes B]({{< baseurl >}}/pages/course-notes) (B6-B16)  
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes B" %}} (B6-B16)  
 
 {{< tdclose >}}
 
@@ -122,7 +129,7 @@ Matrix inverses, determinant
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes B]({{< baseurl >}}/pages/course-notes) (B25-B51)
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes B" %}} (B25-B51)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,11 +146,11 @@ Cross product, Lines and planes
 {{< tdopen >}}
 
 
-[Course Notes B]({{< baseurl >}}/pages/course-notes) (B53-B56)
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes B" %}} (B53-B56)
 
-[Course Notes A]({{< baseurl >}}/pages/course-notes) (A25-A33)
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes A" %}} (A25-A33)
 
-[Course Notes B]({{< baseurl >}}/pages/course-notes) (B18-B23)
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes B" %}} (B18-B23)
 
 
 {{< tdclose >}}
@@ -190,7 +197,7 @@ Curvature, Polar coordinates
 (14.114-14.16) (Apostol Vol. I)
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes B]({{< baseurl >}}/pages/course-notes) (B57-B63)
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes B" %}} (B57-B63)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -280,7 +287,7 @@ Implicit diﬀerentiation, inverse functions
 9.6-9.7
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes C]({{< baseurl >}}/pages/course-notes) (C10-C21)
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes C" %}} (C10-C21)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -310,7 +317,7 @@ Second derivative test, Taylor's Formula
 9.9-9.12
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes C]({{< baseurl >}}/pages/course-notes) (C22-C27)
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes C" %}} (C22-C27)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -340,7 +347,7 @@ Extreme Values, Lagrange Multipliers
 9.14
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes C]({{< baseurl >}}/pages/course-notes) (C28-C33)
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes C" %}} (C28-C33)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -430,7 +437,7 @@ Existence and Fubini's Theorem
 11.10-11.11
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes D]({{< baseurl >}}/pages/course-notes) (D1-D17)  
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes D" %}} (D1-D17)  
 
 {{< tdclose >}}
 
@@ -446,7 +453,7 @@ Double integrals over more general regions
 11.12-11.14
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes D]({{< baseurl >}}/pages/course-notes) (D17-D25)
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes D" %}} (D17-D25)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -506,7 +513,7 @@ Applications
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes E]({{< baseurl >}}/pages/course-notes) (E1-E22)  
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes E" %}} (E1-E22)  
 
 {{< tdclose >}}
 
@@ -522,7 +529,7 @@ Change of variables
 11.26-11.31
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes E]({{< baseurl >}}/pages/course-notes) (E23-E33)
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes E" %}} (E23-E33)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -597,7 +604,7 @@ Stokes's Theorem (cont.)
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes F]({{< baseurl >}}/pages/course-notes) (F1-F5)
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes F" %}} (F1-F5)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -627,7 +634,7 @@ Minimal Surfaces
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes F]({{< baseurl >}}/pages/course-notes) (F7-F16)
+{{% resource_link 898c4ba5-512b-60fc-d5f0-ea338f210413 "Course Notes F" %}} (F7-F16)
 {{< tdclose >}}
 
 {{< trclose >}}
