@@ -30,7 +30,7 @@
     "website": "18-024-multivariable-calculus-with-theory-spring-2011"
   },
   "course_title": "Multivariable Calculus with Theory",
-  "course_description": "This course is a continuation of [18.014](/courses/18-014-calculus-with-theory-fall-2010/). It covers the same material as 18.02 (Multivariable Calculus), but at a deeper level, emphasizing careful reasoning and understanding of proofs. There is considerable emphasis on linear algebra and vector integral calculus.\n",
+  "course_description": "This course is a continuation of [*18.014 Calculus with Theory*](/courses/18-014-calculus-with-theory-fall-2010/)*.* It covers the same material as [*18.02 Multivariable Calculus*](/courses/18-02sc-multivariable-calculus-fall-2010/), but at a deeper level, emphasizing careful reasoning and understanding of proofs. There is considerable emphasis on linear algebra and vector integral calculus.",
   "department_numbers": [
     "18"
   ],
@@ -45,6 +45,7 @@
     "Lecture Notes",
     "Problem Sets with Solutions"
   ],
-  "site_uid": "3fe539cf-0061-470b-831a-8f2a55f8f146",
+  "site_uid": "8c246e38-ca19-42ca-8825-c6f6a7bb5c20",
+  "site_short_id": "18.024-spring-2011",
   "title": "Course Metadata"
 }
