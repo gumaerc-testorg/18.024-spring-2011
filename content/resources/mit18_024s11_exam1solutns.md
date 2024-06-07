@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the solutions of exam 1.
 file: /courses/18-024-multivariable-calculus-with-theory-spring-2011/46811fd4ffa23353fd3b3ac54eb7a94f_MIT18_024S11_Exam1Solutns.pdf
+file_size: 75488
 file_type: application/pdf
 learning_resource_types:
 - Exams

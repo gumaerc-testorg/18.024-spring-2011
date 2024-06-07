@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information related to inverse of a matrix.
 file: /courses/18-024-multivariable-calculus-with-theory-spring-2011/043cde74c9d86eb3405f99edbc1a4c2e_MIT18_024s11_ChB2notes.pdf
+file_size: 1398497
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

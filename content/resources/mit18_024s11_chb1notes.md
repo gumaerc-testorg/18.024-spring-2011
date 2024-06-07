@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information related to matrices.
 file: /courses/18-024-multivariable-calculus-with-theory-spring-2011/224273817cd62ecaecef64bf6c607878_MIT18_024s11_ChB1notes.pdf
+file_size: 2438983
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

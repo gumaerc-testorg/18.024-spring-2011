@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the solutions of problem set 7.
 file: /courses/18-024-multivariable-calculus-with-theory-spring-2011/9cbb10ac8ebddf0510887d7588c6734c_MIT18_024S11_soln-pset7.pdf
+file_size: 76463
 file_type: application/pdf
 learning_resource_types:
 - Assignments
