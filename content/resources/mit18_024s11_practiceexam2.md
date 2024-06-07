@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the practice material of exam 2.
 file: /courses/18-024-multivariable-calculus-with-theory-spring-2011/3b0dc1c7a2291c22cb729027a09bb8cc_MIT18_024S11_PracticeExam2.pdf
+file_size: 54776
 file_type: application/pdf
 learning_resource_types:
 - Exams
