@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information related to derivatives of vector
   functions.
-file: /courses/18-024-multivariable-calculus-with-theory-spring-2011/cdf8e8d3cd13b6b8035d4bd7812bcd97_MIT18_024s11_ChCnotes.pdf
+file: /ol-ocw-studio-app/courses/18-024-multivariable-calculus-with-theory-spring-2011/cdf8e8d3cd13b6b8035d4bd7812bcd97_MIT18_024s11_ChCnotes.pdf
 file_size: 2773966
 file_type: application/pdf
 learning_resource_types:
