@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the solutions of problem set 3.
-file: /ol-ocw-studio-app/courses/18-024-multivariable-calculus-with-theory-spring-2011/fcb2a60cd427175c4455b7ac467c8d19_MIT18_024S11_soln-pset3.pdf
+file: /courses/18-024-multivariable-calculus-with-theory-spring-2011/fcb2a60cd427175c4455b7ac467c8d19_MIT18_024S11_soln-pset3.pdf
 file_size: 83933
 file_type: application/pdf
 learning_resource_types:

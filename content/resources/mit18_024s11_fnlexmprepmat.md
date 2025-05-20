@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the final exam preparation material.
-file: /ol-ocw-studio-app/courses/18-024-multivariable-calculus-with-theory-spring-2011/0cfd53ac5cc342366d0db104d0155bde_MIT18_024S11_FnlExmPrepMat.pdf
+file: /courses/18-024-multivariable-calculus-with-theory-spring-2011/0cfd53ac5cc342366d0db104d0155bde_MIT18_024S11_FnlExmPrepMat.pdf
 file_size: 70322
 file_type: application/pdf
 learning_resource_types:

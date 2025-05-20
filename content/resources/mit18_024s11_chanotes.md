@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information related to linear spaces.
-file: /ol-ocw-studio-app/courses/18-024-multivariable-calculus-with-theory-spring-2011/0924c923e90a09cf95778ba4543644d6_MIT18_024s11_ChAnotes.pdf
+file: /courses/18-024-multivariable-calculus-with-theory-spring-2011/0924c923e90a09cf95778ba4543644d6_MIT18_024s11_ChAnotes.pdf
 file_size: 3228603
 file_type: application/pdf
 learning_resource_types:

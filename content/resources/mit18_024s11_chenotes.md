@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information related to Green's theorem and
   its application.
-file: /ol-ocw-studio-app/courses/18-024-multivariable-calculus-with-theory-spring-2011/7fae6ba2f68e9b832485a33b13d8cbb2_MIT18_024s11_ChEnotes.pdf
+file: /courses/18-024-multivariable-calculus-with-theory-spring-2011/7fae6ba2f68e9b832485a33b13d8cbb2_MIT18_024s11_ChEnotes.pdf
 file_size: 3065918
 file_type: application/pdf
 learning_resource_types:
