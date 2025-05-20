@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the solutions of exam 2.
-file: /ol-ocw-studio-app/courses/18-024-multivariable-calculus-with-theory-spring-2011/fa10e18646dd2ab9265656432745efa3_MIT18_024S11_Exam2solutns.pdf
+file: /courses/18-024-multivariable-calculus-with-theory-spring-2011/fa10e18646dd2ab9265656432745efa3_MIT18_024S11_Exam2solutns.pdf
 file_size: 78013
 file_type: application/pdf
 learning_resource_types:
