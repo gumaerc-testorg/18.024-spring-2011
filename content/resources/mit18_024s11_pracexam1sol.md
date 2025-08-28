@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the solutions of practice material of exam 1.
-file: /courses/18-024-multivariable-calculus-with-theory-spring-2011/fcd98e538d803bd9b35cdcbbafd41b08_MIT18_024S11_PracExam1Sol.pdf
+file: /ol-ocw-studio-app/courses/18-024-multivariable-calculus-with-theory-spring-2011/fcd98e538d803bd9b35cdcbbafd41b08_MIT18_024S11_PracExam1Sol.pdf
 file_size: 86969
 file_type: application/pdf
 learning_resource_types:
